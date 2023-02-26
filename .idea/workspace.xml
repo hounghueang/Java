@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67dda552-3790-442c-ba3a-5ad5aa7b2928" name="Changes" comment="bai tap thu 2">
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/IShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_interface/ShowShape.java" afterDir="false" />
+    <list default="true" id="67dda552-3790-442c-ba3a-5ad5aa7b2928" name="Changes" comment="bai tap IShape">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_interface/ShowShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_interface/ShowShape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +75,19 @@
       <option name="project" value="LOCAL" />
       <updated>1676823783718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bai tap IShape">
+      <created>1677399010758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677399010758</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bai tap thu 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="bai tap thu 2" />
+    <MESSAGE value="bai tap IShape" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai tap IShape" />
   </component>
 </project>
